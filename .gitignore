@@ -1,0 +1,24 @@
+# Archivos generados por Quartus
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+*.qws
+*.bak
+*.rpt
+*.summary
+*.smsg
+*.done
+*.jdi
+*.pin
+*.sld
+*.qdf
+*.sof
+*.pof
+
+# ModelSim
+work/
+transcript
+*.wlf
+*.vstf
